@@ -1,11 +1,12 @@
 package hsbc;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 public class Minicode {
 	public static void main(String[] args) {
 		String s = "abcdef";
-		int n = s.indexOf("h");
+		int n = s.indexOf("c");
 		System.out.println(n);
 	}
 
