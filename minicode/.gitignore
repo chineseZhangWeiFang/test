@@ -1,0 +1,10 @@
+.idea
+*.iml
+# ignore target folder
+target/
+
+# ignore Eclipse files
+.settings/
+build/
+.classpath
+.project
