@@ -1,6 +1,6 @@
 package hsbc;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class Minicode {
 	public static void main(String[] args) {
